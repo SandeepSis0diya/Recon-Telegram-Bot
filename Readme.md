@@ -24,5 +24,5 @@ A Telegram-based reconnaissance automation bot for authorized security testing.
 ```bash
 git clone https://github.com/SandeepSis0diya/Recon-Telegram-Bot.git
 cd Recon-Telegram-Bot
-pip install -r requirements.txt
+pip install -r Requirements.txt
 
