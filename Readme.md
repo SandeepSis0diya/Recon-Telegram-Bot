@@ -1,7 +1,7 @@
-# Recon Telegram Bot
-
+![Pylint](https://github.com/SandeepSis0diya/Recon-Telegram-Bot/actions/workflows/pylint.yml/badge.svg)
 ![Security](https://img.shields.io/badge/Security-Recon-yellow)
 
+# Recon Telegram Bot
 
 A Telegram-based reconnaissance automation bot for authorized security testing.
 
