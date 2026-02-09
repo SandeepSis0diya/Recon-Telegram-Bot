@@ -44,13 +44,7 @@ A Telegram-based reconnaissance automation bot for authorized security testing.
 
 
 ## After Auto Full scan You can get full scan PDF Report 
-<img width="550" height="460" alt="image" src="https://github.com/user-attachments/assets/491a806b-b6f1-4456-bf00-859fdbc257cd" />
-<img width="620" height="438" alt="image" src="https://github.com/user-attachments/assets/6a17344d-e5fe-4433-88b5-f22e66f6c0f3" />
-<img width="596" height="97" alt="image" src="https://github.com/user-attachments/assets/d7cd8217-2086-4f52-b175-5c2aee82ac98" />
-<img width="613" height="369" alt="image" src="https://github.com/user-attachments/assets/afbcae6f-e86e-4996-bfcb-7918d6518c9d" />
-<img width="630" height="636" alt="image" src="https://github.com/user-attachments/assets/39a8a1d2-a9a6-42cc-8566-be0f668d4880" />
-<img width="642" height="379" alt="image" src="https://github.com/user-attachments/assets/424783ac-c13c-42b9-98b7-ce790f04f60a" />
-
+<img width="287" height="97" alt="image" src="https://github.com/user-attachments/assets/9ebcb372-d520-4834-b6a1-5a531b95d01d" />
 
 
 
